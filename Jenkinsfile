@@ -5,7 +5,7 @@ pipeline {
 
         stage('Clone Code') {
             steps {
-                git 'https://github.com/harikamekala222/Car-Application.git'
+                git 'https://github.com/Gowthami7274/static-23.git'
             }
         }
 
