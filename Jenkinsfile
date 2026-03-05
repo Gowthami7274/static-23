@@ -16,7 +16,7 @@ pipeline {
 
                 git branch: 'main',
 
-                url: 'https://github.com/karthickbalaraman6/carwebsite.git'
+                url: 'https://github.com/Gowthami7274/static-23.git'
 
             }
 
